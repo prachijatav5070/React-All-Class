@@ -1,0 +1,29 @@
+{
+   " Students":[
+        {
+            "rollno":121,
+            "name":"anuska",
+            "city":"bhopal",
+            "fees":1222
+        },
+        {
+            "rollno":121,
+            "name":"anuska",
+            "city":"bhopal",
+            "fees":3232
+        },
+        {
+            "rollno":121,
+            "name":"anuska",
+            "city":"bhopal",
+            "fees":56644
+        },
+        {
+            "rollno":121,
+            "name":"anuska",
+            "city":"bhopal",
+            "fees":7786
+        }
+
+    ]
+}

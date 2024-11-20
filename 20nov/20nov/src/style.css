@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+table ,tr, th ,td{
+    border: 2px solid rgb(162, 122, 179);
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(41, 206, 57);
+    border-collapse: collapse;
+    
+}
